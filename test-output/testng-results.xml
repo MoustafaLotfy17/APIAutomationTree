@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2994" started-at="2021-04-10T21:17:17 EET" finished-at="2021-04-10T21:17:20 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2994" started-at="2021-04-10T21:17:17 EET" finished-at="2021-04-10T21:17:20 EET">
+      <class name="AutomationTask.API_Task.GetProductAPITest">
+        <test-method status="PASS" signature="getProductRequestIfIEndPointIsInvalid()[pri:0, instance:AutomationTask.API_Task.GetProductAPITest@69b2283a]" name="getProductRequestIfIEndPointIsInvalid" duration-ms="2613" started-at="2021-04-10T21:17:17 EET" description="Get Product Request with wrong endpoint." finished-at="2021-04-10T21:17:19 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIEndPointIsInvalid -->
+        <test-method status="PASS" signature="getProductRequestIfIdIsInvalid()[pri:0, instance:AutomationTask.API_Task.GetProductAPITest@69b2283a]" name="getProductRequestIfIdIsInvalid" duration-ms="54" started-at="2021-04-10T21:17:20 EET" description="Get Product Request with Invalid Product ID." finished-at="2021-04-10T21:17:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIdIsInvalid -->
+        <test-method status="PASS" signature="getProductRequestIfIdIsNull()[pri:0, instance:AutomationTask.API_Task.GetProductAPITest@69b2283a]" name="getProductRequestIfIdIsNull" duration-ms="24" started-at="2021-04-10T21:17:20 EET" description="Get Product Request with Null Product ID." finished-at="2021-04-10T21:17:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIdIsNull -->
+        <test-method status="PASS" signature="getProductRequestIfIdIsValid()[pri:0, instance:AutomationTask.API_Task.GetProductAPITest@69b2283a]" name="getProductRequestIfIdIsValid" duration-ms="193" started-at="2021-04-10T21:17:20 EET" description="Get Product Request with Valid Product ID." finished-at="2021-04-10T21:17:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIdIsValid -->
+      </class> <!-- AutomationTask.API_Task.GetProductAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

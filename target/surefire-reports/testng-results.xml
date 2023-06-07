@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BestBuy.BestBuy_Automation.Tests" duration-ms="2827" started-at="2021-04-08T18:39:36 EET" finished-at="2021-04-08T18:39:38 EET">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2827" started-at="2021-04-08T18:39:36 EET" finished-at="2021-04-08T18:39:38 EET">
+      <class name="BestBuy.BestBuy_Automation.Tests">
+        <test-method status="PASS" signature="getProductRequestIfIEndPointIsInvalid()[pri:0, instance:BestBuy.BestBuy_Automation.Tests@7085bdee]" name="getProductRequestIfIEndPointIsInvalid" duration-ms="2561" started-at="2021-04-08T18:39:36 EET" finished-at="2021-04-08T18:39:38 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIEndPointIsInvalid -->
+        <test-method status="PASS" signature="getProductRequestIfIdIsInvalid()[pri:0, instance:BestBuy.BestBuy_Automation.Tests@7085bdee]" name="getProductRequestIfIdIsInvalid" duration-ms="31" started-at="2021-04-08T18:39:38 EET" finished-at="2021-04-08T18:39:38 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIdIsInvalid -->
+        <test-method status="PASS" signature="getProductRequestIfIdIsValid()[pri:0, instance:BestBuy.BestBuy_Automation.Tests@7085bdee]" name="getProductRequestIfIdIsValid" duration-ms="186" started-at="2021-04-08T18:39:38 EET" finished-at="2021-04-08T18:39:38 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductRequestIfIdIsValid -->
+      </class> <!-- BestBuy.BestBuy_Automation.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- BestBuy.BestBuy_Automation.Tests -->
+</testng-results>
